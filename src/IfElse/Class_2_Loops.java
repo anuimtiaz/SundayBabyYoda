@@ -7,7 +7,9 @@ public class Class_2_Loops extends SwitchCase {
 	 3. Do While Loop
 	 4. Infinite Loop
 	 */
-
+	
+	//Ashik Prodhan
+	
 	public static void main(String[] args) {
 		practiceForLoop();
 //		practiceWhileLoop();
